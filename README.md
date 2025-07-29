@@ -1,6 +1,6 @@
 # opensdk-agents
 Automated Ai agents using Opensdk
-# 📧 Smart Gmail AI Assistant
+# 📧 Smart-AI-Gmail-Responder
 
 An AI-based Gmail responder that reads unread emails using the Gmail API, generates intelligent replies using OpenAI's GPT model, and sends them automatically via your Gmail account.
 
